@@ -1,0 +1,23 @@
+{
+  "name": "urlShortener_ms",
+  "version": "1.0.0",
+  "description": "Microservice to shorten urls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioIsas/urlshortener_ms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioIsas/urlshortener_ms/issues"
+  },
+  "homepage": "https://github.com/AntonioIsas/urlshortener_ms#readme",
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
